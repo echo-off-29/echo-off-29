@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+🎮 My Hearthstone collection:
+https://hsreplay.net/collection/2/54480468/
+
+
 <!--
 **echo-off-29/echo-off-29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
